@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jetpack Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_title">Buenos dias</string>
+    <string name="go_to_login">Actualizar</string>
+    <string name="create_user_title">Nueva Cuenta</string>
+    <string name="Mi_Perfil_title">Mi Perfil</string>
+    <string name="go_to_home">Crear cuenta</string>
+    <string name="login_title">Laboratorio 7</string>
+    <string name="go_to_create">Nuuevo usuario? ingresa tu cuenta aqui</string>
+</resources>
